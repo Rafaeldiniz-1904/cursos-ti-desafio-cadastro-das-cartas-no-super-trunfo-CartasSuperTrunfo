@@ -7,6 +7,15 @@
 //Teste larissa
 
 int main() {
+    char País[20] = "Brasil";
+    char Nome da Cidade[20] = "São paulo";
+    char Estado = 'S';
+    char Código da carta [3] = S01;
+    int População = 11451245;
+    float Área em Km² = 1521,11 Km²;
+    float PIB = 27197,51 R$;
+    
+
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
