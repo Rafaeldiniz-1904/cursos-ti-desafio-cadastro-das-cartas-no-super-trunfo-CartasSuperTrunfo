@@ -39,13 +39,20 @@ int main() {
     float Área Km² = 281.707,150 Km²;
     float PIB = 581.284;
 
-    
+
     printf("Cidade: %s\n", Cidade);
+    scanf("Cidade: %s\n", &Cidade);
     printf("Estado: %c\n", Estado);
+    scanf("Estado: %c\n", &Estado);
     printf("Código: %c\n", Código);
+    scanf("Código: %c\n", &Código);
     printf("População: %f\n", População);
+    scanf("População: %f\n", &População);
     printf("Área: %f\n", Área);
+    scanf("Área: %f\n", &Área);
     printf("PIB: %f\n", PIB);
+    scanf("PIB: %f\n", &PIB);
+
 
 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
