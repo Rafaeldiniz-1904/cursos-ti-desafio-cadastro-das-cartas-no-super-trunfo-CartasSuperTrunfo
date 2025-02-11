@@ -7,44 +7,45 @@
 //Teste larissa
 
 int main() {
-    char País[20] = "Brasil";
-    char Nome da Cidade[20] = "São Paulo";
+
+    char Cidade[20] = "São Paulo";
     char Estado = 'S';
     char Código da carta [3] = S01;
     int População = 44.411,238;
     float Área Km² = 248.219,485 Km²;
-    float PIB = 2.719,751 R$;
+    float PIB = 2.719,751;
 
-    char País[20] = "Brasil";
-    char Nome da Cidade[20] = "Rio de Janeiro";
+
+    char Cidade[20] = "Rio de Janeiro";
     char Estado = 'R';
     char Código da carta [3] = R02;
     int População = 6.211,223;
     float Área Km² = 1200,330 Km²;
-    float PIB = 949.301 R$;
+    float PIB = 949.301;
 
-       char País[20] = "Brasil";
-    char Nome da Cidade[20] = "Minas Gerais";
+
+    char Cidade[20] = "Minas Gerais";
     char Estado = 'M';
     char Código da carta [3] = M03;
     int População = 20.539,989;
     float Área Km² = 586.513,984 Km²;
-    float PIB = 857.593 R$;
-    int População = 6.211,223;
-    float Área Km² = 1200,330 Km²;
-    float PIB = 949.301 R$;
+    float PIB = 857.593;
 
-       char País[20] = "Brasil";
-    char Nome da Cidade[20] = "Rio Grande do Sul";
+
+    char Cidade[20] = "Rio Grande do Sul";
     char Estado = 'R';
     char Código da carta [3] = R04;
     int População = 10.882,965;
     float Área Km² = 281.707,150 Km²;
-    float PIB = 581.284 R$;
+    float PIB = 581.284;
 
     
-
-
+    printf("Cidade: %s\n", Cidade);
+    printf("Estado: %c\n", Estado);
+    printf("Código: %c\n", Código);
+    printf("População: %f\n", População);
+    printf("Área: %f\n", Área);
+    printf("PIB: %f\n", PIB);
 
 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
