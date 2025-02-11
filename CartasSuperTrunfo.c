@@ -12,32 +12,7 @@ int main() {
     char Estado = 'S';
     char Código da carta [3] = S01;
     int População = 44.411,238;
-    float Área Km² = 248.219,485 Km²;
-    float PIB = 2.719,751;
-
-
-    char Cidade[20] = "Rio de Janeiro";
-    char Estado = 'R';
-    char Código da carta [3] = R02;
-    int População = 6.211,223;
-    float Área Km² = 1200,330 Km²;
-    float PIB = 949.301;
-
-
-    char Cidade[20] = "Minas Gerais";
-    char Estado = 'M';
-    char Código da carta [3] = M03;
-    int População = 20.539,989;
-    float Área Km² = 586.513,984 Km²;
-    float PIB = 857.593;
-
-
-    char Cidade[20] = "Rio Grande do Sul";
-    char Estado = 'R';
-    char Código da carta [3] = R04;
-    int População = 10.882,965;
-    float Área Km² = 281.707,150 Km²;
-    float PIB = 581.284;
+    float PIB = 123.113,12;
 
 
     printf("Cidade: %s\n", Cidade);
